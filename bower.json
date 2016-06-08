@@ -1,0 +1,25 @@
+{
+  "name": "khao",
+  "authors": [
+    "pushkara <pushkaragona@gmail.com>"
+  ],
+  "description": "Website for a new restaurant",
+  "main": "index.html",
+  "keywords": [
+    "aao",
+    "kaho"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.0"
+  }
+}

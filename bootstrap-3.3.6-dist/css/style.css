@@ -1,0 +1,99 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+.row-footer {
+  margin: 0px auto;
+  padding: 20px 0px;
+  background-color: darkgoldenrod;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: seagreen;
+  color: floralwhite;
+}
+.carousel, .navbar-inverse{
+  background: darkgoldenrod;
+  color: #ffffff;
+}
+.carousel .navbar-nav > .active > a {
+  background: darkgoldenrod;
+  color: #ffffff;
+}
+.carousel .navbar-nav > .active > a:hover {
+  background: darkgoldenrod;
+  color: #ffffff;
+}
+.carousel .navbar-nav > .active > a:focus {
+  background: darkgoldenrod;
+  color: #ffffff;
+}
+.carousel .navbar-nav .open .dropdown-menu > li > a {
+  background-color: seagreen;
+  color: #eeeeee;
+}
+.carousel .navbar-nav .open .dropdown-menu > li > a:hover {
+  color: #000000;
+}
+.carousel .navbar-nav .open .dropdown-menu {
+  background-color: seagreen;
+  color: #eeeeee;
+}
+address {
+  color: #0f0f0f;
+  font-size: 80%;
+  margin: 0px;
+}
+body {
+  align-self: center;
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.tab-content {
+  border-bottom: 1px solid #dddddd;
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  padding: 10px;
+}
+.affix {
+  top: 100px;
+    
+}
+#carouselButtons {
+  bottom: 0px;
+  position: absolute;
+  right: 0px;
+}
+
+#map-container {
+    height:300px}
+
+.nav-pills > li > a {
+    color:goldenrod;
+}
+
+.nav-pills>li.active>a {
+    background: seagreen;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover{
+    background: goldenrod;    
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: green;
+}
+
+a{
+    
+    color:green;
+}
